@@ -39,4 +39,3 @@ Fire-show/
 <div align="center">
   <sub>Сделано с ❤️ в рамках учёбы</sub>
 </div>
-
