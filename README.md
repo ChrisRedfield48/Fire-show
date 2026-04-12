@@ -1,31 +1,41 @@
 <div align="center">
 
-# 🎓 Учебный репозиторий
+<table><tr>
+<td align="left">
 
-**Рябов Никита Алексеевич**  
-Группа: 28Ипо8481
+# Рябов Никита Алексеевич
 
-Специальность: **Информационные системы и программирование**
+`28Ипо8481` &nbsp;·&nbsp; Информационные системы и программирование
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ChrisRedfield48/Fire-show?style=flat-square&color=orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/ChrisRedfield48/Fire-show?style=flat-square&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/ChrisRedfield48/Fire-show?style=flat-square&color=orange&label=last+commit)
+![GitHub repo size](https://img.shields.io/github/repo-size/ChrisRedfield48/Fire-show?style=flat-square&color=steelblue&label=size)
 ![License](https://img.shields.io/github/license/ChrisRedfield48/Fire-show?style=flat-square&color=green)
+
+</td>
+<td align="right" valign="top">
+
+```
+РНА
+```
+
+</td>
+</tr></table>
 
 </div>
 
 ---
 
-## 📚 Предметы
+## Предметы
 
-| № | Предмет | Папка |
-|---|---------|-------|
-| 1 | 🏗️ Архитектура | [Перейти](./Архитектура) |
-| 2 | 🖥️ Внедрение и поддержка компьютерных систем | [Перейти](./Внедрение%20и%20поддержка%20компьютерных%20систем) |
-| 3 | 🌐 Компьютерные сети | [Перейти](./Компьютерные%20сети) |
+| `#` | Предмет | |
+|:---:|:--------|:---:|
+| `01` | Архитектура | [↗ открыть](./Архитектура) |
+| `02` | Внедрение и поддержка компьютерных систем | [↗ открыть](./Внедрение%20и%20поддержка%20компьютерных%20систем) |
+| `03` | Компьютерные сети | [↗ открыть](./Компьютерные%20сети) |
 
 ---
 
-## 🗂️ Структура репозитория
+## Структура репозитория
 
 ```
 Fire-show/
@@ -36,6 +46,4 @@ Fire-show/
 
 ---
 
-<div align="center">
-  <sub>Сделано с ❤️ в рамках учёбы</sub>
-</div>
+<div align="center"><sub>сделано с ♥ в рамках учёбы</sub></div>
