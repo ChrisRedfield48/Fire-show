@@ -129,6 +129,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500,FF6347,FF8C00&height=80&section=footer&fontColor=ffffff" width="100%"/>
 
-<sub>сделано с 🔥 в рамках учёбы &nbsp;·&nbsp; <b>РНА</b> &nbsp;·&nbsp; 2024–2025</sub>
+<sub>сделано с 🔥 в рамках учёбы &nbsp;·&nbsp; <b>РНА</b> &nbsp;·&nbsp; 2025–2026</sub>
 
 </div>
