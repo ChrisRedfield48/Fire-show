@@ -1,23 +1,31 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FF2200,FF4500,FF6600,CC1100&height=200&section=header&text=FIRE-SHOW&fontSize=80&fontColor=ffffff&fontAlignY=55&animation=fadeIn&stroke=FF4500&strokeWidth=2" width="100%"/>
+
+</div>
+
+<div align="center">
+
 ```
-███████╗██╗██████╗ ███████╗      ███████╗██╗  ██╗ ██████╗ ██╗    ██╗
-██╔════╝██║██╔══██╗██╔════╝      ██╔════╝██║  ██║██╔═══██╗██║    ██║
-█████╗  ██║██████╔╝█████╗  █████╗███████╗███████║██║   ██║██║ █╗ ██║
-██╔══╝  ██║██╔══██╗██╔══╝  ╚════╝╚════██║██╔══██║██║   ██║██║███╗██║
-██║     ██║██║  ██║███████╗      ███████║██║  ██║╚██████╔╝╚███╔███╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝      ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ 
+██████╗ ██╗   ██╗ █████╗ ██████╗  ██████╗ ██╗   ██╗    ███╗   ██╗██╗██╗  ██╗██╗████████╗ █████╗ 
+██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██║   ██║    ████╗  ██║██║██║ ██╔╝██║╚══██╔══╝██╔══██╗
+██████╔╝ ╚████╔╝ ███████║██████╔╝██║   ██║██║   ██║    ██╔██╗ ██║██║█████╔╝ ██║   ██║   ███████║
+██╔══██╗  ╚██╔╝  ██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝    ██║╚██╗██║██║██╔═██╗ ██║   ██║   ██╔══██║
+██║  ██║   ██║   ██║  ██║██████╔╝╚██████╔╝ ╚████╔╝     ██║ ╚████║██║██║  ██╗██║   ██║   ██║  ██║
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚═════╝   ╚═══╝      ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<h3>🔥 &nbsp; Р Я Б О В &nbsp; Н И К И Т А &nbsp; А Л Е К С Е Е В И Ч &nbsp; 🔥</h3>
+<br>
 
-<sub>Группа <code>28Ипо8481</code> &nbsp;·&nbsp; Специальность: Информационные системы и программирование</sub>
+# 🔥 РЯБОВ НИКИТА АЛЕКСЕЕВИЧ 🔥
+
+<h3><code>28Ипо8481</code> &nbsp;⬥&nbsp; Информационные системы и программирование</h3>
 
 <br>
 
-[![Last Commit](https://img.shields.io/github/last-commit/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF4500&label=последний+коммит&logo=git&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/ChrisRedfield48/Fire-show?style=for-the-badge&color=1E90FF&label=размер&logo=github&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show)
-[![License](https://img.shields.io/github/license/ChrisRedfield48/Fire-show?style=for-the-badge&color=32CD32&label=лицензия&logo=opensourceinitiative&logoColor=white)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF2200&label=последний+коммит&logo=git&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show/commits)&nbsp;
+[![Repo Size](https://img.shields.io/github/repo-size/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF4500&label=размер&logo=github&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show)&nbsp;
+[![License](https://img.shields.io/github/license/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF6600&label=лицензия&logo=opensourceinitiative&logoColor=white)](./LICENSE)
 
 </div>
 
@@ -27,13 +35,25 @@
 
 <div align="center">
 
-## 🌋 &nbsp; О РЕПОЗИТОРИИ
+## ▸ О&nbsp;&nbsp;Р Е П О З И Т О Р И И
 
 </div>
 
-> Учебный репозиторий по программе **«Информационные системы и программирование»**.  
-> Здесь собраны все практические работы, лабораторки и конспекты по трём ключевым дисциплинам.  
-> Структурировано, задокументировано, сдано в срок — почти всегда.
+<br>
+
+```
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   Учебный репозиторий по программе                                   ║
+  ║   «Информационные системы и программирование»                        ║
+  ║                                                                      ║
+  ║   Здесь собраны все практические работы, лабораторки и конспекты     ║
+  ║   по трём ключевым дисциплинам.                                      ║
+  ║                                                                      ║
+  ║   Структурировано · Задокументировано · Сдано в срок — почти всегда  ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
@@ -41,38 +61,21 @@
 
 <div align="center">
 
-## 📚 &nbsp; ПРЕДМЕТЫ
+## 🔴 П Р Е Д М Е Т Ы
 
 </div>
 
 <br>
 
-<table align="center">
-<thead>
-<tr>
-<th align="center">№</th>
-<th align="left">📖 Предмет</th>
-<th align="center">Перейти</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><b>01</b></td>
-<td><b>🏗️ Архитектура</b><br><sub>Архитектура компьютерных систем и цифровая логика</sub></td>
-<td align="center"><a href="./Архитектура"><img src="https://img.shields.io/badge/открыть-FF4500?style=flat-square&logo=files&logoColor=white" alt="open"/></a></td>
-</tr>
-<tr>
-<td align="center"><b>02</b></td>
-<td><b>🖥️ Внедрение и поддержка компьютерных систем</b><br><sub>Установка, настройка и администрирование ПО и железа</sub></td>
-<td align="center"><a href="./Внедрение%20и%20поддержка%20компьютерных%20систем"><img src="https://img.shields.io/badge/открыть-FF4500?style=flat-square&logo=files&logoColor=white" alt="open"/></a></td>
-</tr>
-<tr>
-<td align="center"><b>03</b></td>
-<td><b>🌐 Компьютерные сети</b><br><sub>Протоколы, топологии, сетевое оборудование и маршрутизация</sub></td>
-<td align="center"><a href="./Компьютерные%20сети"><img src="https://img.shields.io/badge/открыть-FF4500?style=flat-square&logo=files&logoColor=white" alt="open"/></a></td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+
+| &nbsp; | Предмет | Описание | Ссылка |
+|:---:|:---|:---|:---:|
+| 🏗️ | **Архитектура** | Архитектура компьютерных систем и цифровая логика | [![open](https://img.shields.io/badge/▶_открыть-FF2200?style=flat-square&logoColor=white)](./Архитектура) |
+| 🖥️ | **Внедрение и поддержка компьютерных систем** | Установка, настройка и администрирование ПО и железа | [![open](https://img.shields.io/badge/▶_открыть-FF4500?style=flat-square&logoColor=white)](./Внедрение%20и%20поддержка%20компьютерных%20систем) |
+| 🌐 | **Компьютерные сети** | Протоколы, топологии, сетевое оборудование и маршрутизация | [![open](https://img.shields.io/badge/▶_открыть-FF6600?style=flat-square&logoColor=white)](./Компьютерные%20сети) |
+
+</div>
 
 <br>
 
@@ -80,27 +83,29 @@
 
 <div align="center">
 
-## 🗂️ &nbsp; СТРУКТУРА РЕПОЗИТОРИЯ
+## 🗂️ С Т Р У К Т У Р А
 
 </div>
+
+<br>
 
 ```
 🔥 Fire-show/
 │
 ├── 🏗️  Архитектура/
-│   ├── Лабораторные работы/
-│   ├── Практические задания/
-│   └── README.md
+│   ├── 📁 Лабораторные работы/
+│   ├── 📁 Практические задания/
+│   └── 📄 README.md
 │
 ├── 🖥️  Внедрение и поддержка компьютерных систем/
-│   ├── Лабораторные работы/
-│   ├── Практические задания/
-│   └── README.md
+│   ├── 📁 Лабораторные работы/
+│   ├── 📁 Практические задания/
+│   └── 📄 README.md
 │
 └── 🌐  Компьютерные сети/
-    ├── Лабораторные работы/
-    ├── Практические задания/
-    └── README.md
+    ├── 📁 Лабораторные работы/
+    ├── 📁 Практические задания/
+    └── 📄 README.md
 ```
 
 <br>
@@ -109,15 +114,19 @@
 
 <div align="center">
 
-## 📊 &nbsp; АКТИВНОСТЬ
+## 📊 А К Т И В Н О С Т Ь
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChrisRedfield48&theme=redical&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChrisRedfield48&theme=redical&hide_border=true&area=true&color=FF4500&line=FF2200&point=FF6600)
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisRedfield48&show_icons=true&theme=radical&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisRedfield48&show_icons=true&theme=radical&hide_border=true&title_color=FF2200&icon_color=FF4500&text_color=ffffff&bg_color=0d1117&ring_color=FF2200)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisRedfield48&layout=compact&theme=radical&hide_border=true&title_color=FF2200&text_color=ffffff&bg_color=0d1117)
 
 </div>
 
@@ -127,8 +136,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500,FF6347,FF8C00&height=80&section=footer&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=CC1100,FF2200,FF4500,FF6600&height=120&section=footer&fontColor=ffffff&reversal=true" width="100%"/>
 
-<sub>сделано с 🔥 в рамках учёбы &nbsp;·&nbsp; <b>РНА</b> &nbsp;·&nbsp; 2025–2026</sub>
+<br>
+
+```
+  ██████╗  ███╗   ██╗  █████╗ 
+  ██╔══██╗ ████╗  ██║ ██╔══██╗
+  ██████╔╝ ██╔██╗ ██║ ███████║
+  ██╔══██╗ ██║╚██╗██║ ██╔══██║
+  ██║  ██║ ██║ ╚████║ ██║  ██║
+  ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝
+```
+
+**сделано с** 🔥 **в рамках учёбы &nbsp;·&nbsp; РНА &nbsp;·&nbsp; 2025–2026**
 
 </div>
