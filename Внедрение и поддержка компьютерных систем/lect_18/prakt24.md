@@ -186,7 +186,7 @@ total 12
 -rw-rw-r-- 1 user user  91 May 7 11:41 file_combined.txt
 ```
 
-![Скриншот терминала — создание файлов, объединение, перемещение, ls -l](/var/folders/kp/q43nvybs5_v2qv1vx90tgy3r0000gn/T/telegram-cloud-photo-size-2-5469858662592485540-w.jpg)
+![Скриншот терминала — создание файлов, объединение, перемещение, ls -l] ![скриншот](Внедрение и поддержка компьютерных систем/screenshots/IMAGE 2026-05-07 21:19:03.jpg)
 
 **Анализ прав доступа файла `file1.txt` (`-rw-rw-r--`):**
 
@@ -226,7 +226,7 @@ ls -l
 -rw-rw-r-- 1 user user  91 May 7 11:41 file_combined.txt
 ```
 
-![Скриншот терминала — chmod и результат ls -l](/var/folders/kp/q43nvybs5_v2qv1vx90tgy3r0000gn/T/telegram-cloud-photo-size-2-5469858662592485541-w.jpg)
+![Скриншот терминала — chmod и результат ls -l](Внедрение и поддержка компьютерных систем/screenshots/IMAGE 2026-05-07 21:19:05.jpg)
 
 **Анализ новых прав `file1.txt` (`-rwxr-xr-x`):**
 
