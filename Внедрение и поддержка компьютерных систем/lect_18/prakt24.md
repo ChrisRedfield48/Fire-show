@@ -186,7 +186,7 @@ total 12
 -rw-rw-r-- 1 user user  91 May 7 11:41 file_combined.txt
 ```
 
-![Скриншот терминала — chmod и результат ls -l](screenshots/IMAGE 2026-05-07 21:19:05.jpg)
+![Скриншот 1](<screenshots/IMAGE 2026-05-07 21:19:03.jpg>)
 
 **Анализ прав доступа файла `file1.txt` (`-rw-rw-r--`):**
 
@@ -226,7 +226,7 @@ ls -l
 -rw-rw-r-- 1 user user  91 May 7 11:41 file_combined.txt
 ```
 
-![Скриншот терминала](screenshots/IMAGE_2026-05-07_21-19-03.jpg)
+![Скриншот терминала](<screenshots/IMAGE_2026-05-07_21-19-03.jpg>)
 
 **Анализ новых прав `file1.txt` (`-rwxr-xr-x`):**
 
