@@ -1,17 +1,23 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          FIRE-SHOW                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF2200,FF4500,FF6600,CC1100&height=220&section=header&text=FIRE-SHOW&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=blinking&stroke=FF6600&strokeWidth=3&desc=Рябов%20Никита%20Алексеевич%20·%20ИСП&descAlignY=78&descSize=18" width="100%"/>
 
-</div>
-
 <br>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Информационные+системы+и+программирование;Лабы+%C2%B7+Практики+%C2%B7+Конспекты;Сети+%C2%B7+Linux+%C2%B7+Архитектура;Структурировано+и+задокументировано)](https://git.io/typing-svg)
+
+<br>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF2200&label=последний+коммит&logo=git&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show/commits)
 [![Repo Size](https://img.shields.io/github/repo-size/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF4500&label=размер&logo=github&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show)
 [![License](https://img.shields.io/github/license/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF6600&label=лицензия&logo=opensourceinitiative&logoColor=white)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/ChrisRedfield48/Fire-show?style=for-the-badge&color=FF8800&label=stars&logo=star&logoColor=white)](https://github.com/ChrisRedfield48/Fire-show/stargazers)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ChrisRedfield48&style=for-the-badge&color=FF2200&label=ПРОСМОТРЫ+РЕПО)
 
 </div>
 
@@ -64,7 +70,7 @@
 <summary><b>Развернуть</b></summary>
 <br>
 
-Установка, настройка и администрирование программного обеспечения и аппаратного обеспечения.
+Установка, настройка и администрирование программного обеспечения и аппаратного обеспечения. Работа с Linux, Windows Server, виртуальными машинами, файловыми системами и Midnight Commander.
 
 - 📁 Лабораторные работы
 - 📁 Практические задания
@@ -152,10 +158,24 @@
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FF4500)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FF4500)
+![Debian](https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=FF4500)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=FF4500)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=FF4500)
 ![Windows](https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge&logo=windows&logoColor=FF4500)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=FF4500)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=FF4500)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🏆 ТРОФЕИ
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ChrisRedfield48&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=FF4500)
 
 </div>
 
